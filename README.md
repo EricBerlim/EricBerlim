@@ -1,8 +1,6 @@
 ### Hi there! My name is Eric Berlim. 👨‍💻
 Contact-me on:
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EricBerlim/EricBerlim)
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ric-berlim-do-carmo-5a3a37170/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricBerlim)
@@ -16,5 +14,6 @@ Contact-me on:
 </div><br>
 
 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Vianna Júnior.
+
 
 🌱 I’m currently learning HTML5 | CSS3 | JAVA | MYSQL
