@@ -2,6 +2,7 @@
 Contact-me on:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ric-berlim-do-carmo-5a3a37170/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericberlim/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricBerlim)
 
@@ -17,4 +18,4 @@ Contact-me on:
 
 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Vianna Júnior.
 
-🌱 I’m currently learning HTML5 | CSS3 | JAVA | MYSQL | JAVASCRIPT | PHP
+🌱 Learning HTML5 | CSS3 | JAVA | MYSQL | JAVASCRIPT | PHP
